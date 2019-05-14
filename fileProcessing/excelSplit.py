@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding:utf-8 -*-
 # @Time   : 2018/8/15 0015 19:02
-# @Author : 
+# @Author : qiuquan
 # Excel文件按照每8行切割为一个新的Excel文件
 
 from __future__ import division
